@@ -2,18 +2,18 @@
 
 ## Pre-requisites
 
-* Install VSCode
-* Install Python 3.12 or above
-* Install Github
+* Install [VSCode](https://code.visualstudio.com/download)
+* Install [Python 3.12 or above](https://www.python.org/downloads/)
+* Install Git ([link for Windows](https://git-scm.com/downloads/win), [link for Mac](https://git-scm.com/downloads/mac))
 
 ## Clone the code
 
-* Open Visual Studio
-* Open Terminal
+* Open VSCode.
+* Open Terminal.
 
   ![image](https://github.com/user-attachments/assets/3214b3e0-0ab9-4580-89f4-afe252409581)
 
-* Create a folder and navigate to that folder
+* Create a folder and navigate to that folder.
 * Clone the code using the command `git clone https://github.com/sede-open/ai4students2025.git` at the Terminal
 
   ![image](https://github.com/user-attachments/assets/6aac293d-9d86-4c01-ba17-93817832518b)
@@ -22,7 +22,7 @@
 
 ## Run the project
 
-* Open the folder where the code was cloned
+* Open the folder where the code was cloned.
 * Uncomment these lines in the Notebook and run to install the required libraries.
 
     `# %pip install -U pyautogen`
