@@ -1,3 +1,5 @@
 .DS_Store
 .cache/
 OAI_CONFIG_LIST
+OAI_CONFIG_LIST.*
+generated_images/*.png
