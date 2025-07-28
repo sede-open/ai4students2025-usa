@@ -1,6 +1,9 @@
 [
     {
         "model": "gpt-4o",
-        "api_key": "sk-ABC123"
+        "api_type": "azure",
+        "api_key": "xxxxxxxx",
+        "base_url": "xxxxxx",
+        "api_version": "2024-02-01"
     }
 ]
