@@ -20,22 +20,22 @@
 
 ## Run the project
 
-1. Open the folder where the code was cloned.
+1. In VSCode open the folder where the code was cloned, and open the terminal again
 
-2. Create a venv:
+2. Create a python virtual environment, executing the following in the terminal:
     ```
     python -m venv venv
+    ```
+    ```
     source venv/bin/activate  
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+3. Update OAI_CONFIG_LIST with the information provided in the training
 
-4. Choose or amend the task you would like to generate the webpage
+4. Go to file Webpage_azure.ipynb and choose or amend the task you would like to generate the webpage
 
   ![image](https://github.com/user-attachments/assets/96e71f52-efa2-43d9-b152-cc32fdf0d275)
 
-5. Run all the cells to execute the code to generate the web page
+5. Run cell by cell to execute the code to generate the web page. VSCode may ask to install a requirement for notebook (ipynb) and we should accept it. Pay attention on what is happening on each step.
+
 6. Validate your web page
