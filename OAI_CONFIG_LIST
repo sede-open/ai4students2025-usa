@@ -3,7 +3,7 @@
         "model": "gpt-4o",
         "api_type": "azure",
         "api_key": "xxxxxxxx",
-        "base_url": "xxxxxx",
+        "base_url": "xxxxxxxx",
         "api_version": "2024-02-01"
     }
 ]
